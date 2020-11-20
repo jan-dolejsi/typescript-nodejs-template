@@ -1,5 +1,2 @@
-import { MyClass } from './MyClass';
-
-export {
-    MyClass
-}
+export * from './PlanView';
+export * from './PlansView';

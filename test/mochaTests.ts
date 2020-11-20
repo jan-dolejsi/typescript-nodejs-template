@@ -1,11 +1,11 @@
 const expect = require('chai').expect;
-import { MyClass } from '../src/MyClass';
+// import { PlanView } from './PlanView';
 
 describe("MyClass", () => {
     describe("#method()", () => {
         it("does something", () => {
-            new MyClass();
-            //expect.
+            // new PlanView(host, );
+            expect(true).to.equal(true);
         });
     });
 });
