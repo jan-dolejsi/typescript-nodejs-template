@@ -1,2 +1,5 @@
-export * from './PlanView';
-export * from './PlansView';
+import { MyClass } from './MyClass';
+
+export {
+    MyClass
+}
